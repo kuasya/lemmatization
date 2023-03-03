@@ -14,6 +14,7 @@
 ## Решение
 Язык программирования: Python 3.8
 Используемые библиотеки: re, pymorphy2, nltk
+
 Лемматизацию слов выполняю с помощью Pymorphy2, для морфологического анализа использую класс MorphAnalyzer.
 ![image](https://user-images.githubusercontent.com/62285192/220194254-78b8c282-71e0-42a9-a42c-f84161161233.png)
 
